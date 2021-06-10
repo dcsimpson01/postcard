@@ -3,13 +3,13 @@ title: "David Simpson"
 image: "david.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/in/dcsimpson01"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/DavidCSimpson"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/dcsimpson01"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:dcsimpson01@gmail.com"
 output:
   postcards::jolla
 ---
