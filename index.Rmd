@@ -1,0 +1,18 @@
+---
+title: "David Simpson"
+image: "david.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+
+I am a Political Science doctoral student at Columbia University specializing in American Politics and Political Economy.
